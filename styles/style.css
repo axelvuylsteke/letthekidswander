@@ -1,0 +1,116 @@
+.fixed-top {
+    background-color: transparent;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link:hover {
+    text-decoration: line-through;
+    color: black;
+}
+
+.navbar-brand {
+    color: black;
+    margin-left: 1rem;
+}
+
+.nav-item {
+    margin-top: 1rem;
+    margin-right: 3rem;
+}
+
+.navbar-toggler {
+    width: 47px;
+    height: 34px;
+    background-color: #7eb444;
+    border: none;
+}
+
+.navbar-toggler .hamburger-line {
+    width: 100%;
+    float: left;
+    height: 2px;
+    background-color: #fff;
+    margin-bottom: 5px;
+}
+
+.hamburger-line-bottom {
+    margin-bottom: 0px;
+    width: 100%;
+    float: left;
+    height: 2px;
+    background-color: #fff;
+}
+
+.fa-instagram {
+    color: green;
+    margin: 17rem 2rem;
+}
+
+.fa-facebook-square {
+    color: green;
+    margin: 19rem 2rem;
+}
+.fa-youtube {
+    color: green;
+}
+
+.main-background-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.about-us-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.world-map-image {
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-story {
+    position: relative;
+}
+
+.main-story-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.story-image {
+    max-width: 100%;
+    height: auto;
+    padding-right: 5rem;
+}
+.story-image-text {
+    padding-right: 5rem;
+}
+
+.story-container {
+    padding: 0;
+}
+.story-content {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+.sub-stories {
+    position: absolute;
+    top: 95%;
+    margin-left: 5rem;  
+}
+
+#navigation-menu {
+    position: relative;
+}
+
+#about-us {
+    margin: 6rem 3rem 4rem 3rem;
+}
