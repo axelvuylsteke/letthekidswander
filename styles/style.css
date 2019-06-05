@@ -1,22 +1,32 @@
 body {
-    background-color: #fcf9ec;
+    background-color: #b0f4e6;
+    position: relative;
 }
 .fixed-top {
     background-color: transparent;
 }
 
 .nav-link {
-    color: black;
+    color: white;
+    font-family: "Gloria Hallelujah";
+    font-weight: bold;
+    font-size: 1.2rem;
 }
 
 .nav-link:hover {
     text-decoration: line-through;
-    color: black;
+    color: white;
 }
 
 .navbar-brand {
-    color: black;
+    color: white;
     margin-left: 1rem;
+    font-family: "Gloria Hallelujah";
+    font-weight: 1.2rem;
+    font-size: 2rem;
+}
+.navbar {
+    background-color: #b0f4e6;
 }
 
 .nav-item {
@@ -28,7 +38,7 @@ body {
 .navbar-toggler {
     width: 47px;
     height: 34px;
-    background-color: #7eb444;
+    background-color: #b0f4e6;
     border: none;
 }
 
@@ -94,7 +104,7 @@ body {
     max-width: 100%;
     height: auto;
     margin-right: 5rem;
-    border: solid 1px green;
+    border: solid 1px #b0f4e6;
 }
 .story-image-text {
     text-align: center;
@@ -142,4 +152,3 @@ body {
 #stories {
     margin-bottom: 20rem;
 }
-
